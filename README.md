@@ -1,4 +1,4 @@
-# Ruby Project Template
+# Ruby Project Starter
 
 ## Setup & Install
 
